@@ -1,0 +1,10 @@
+{
+  "name": "Persona 5 - When My Mother Was There",
+  "description": "Music from Futaba's palace in Persona 5",
+  "author": "RaiHanashi",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
